@@ -1,2 +1,2 @@
 # github-profile-achievement
-github-profile-achievements
+github-profile-achievement 
