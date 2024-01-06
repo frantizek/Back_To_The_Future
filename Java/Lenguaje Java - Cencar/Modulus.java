@@ -1,4 +1,7 @@
-public class Modulus {
+/**
+ * Modulus
+ */
+class Modulus {
 
     // El operador modulo de java tambien funciona con numeros de punto
     // flotante como muestra el siguiente ejemplo:

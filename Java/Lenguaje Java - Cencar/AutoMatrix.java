@@ -1,4 +1,7 @@
-public class AutoMatrix {
+/**
+ * AutoMatrix
+ */
+class AutoMatrix {
     public static void main(String[] args) {
         double m[][] = {
             {0,0,0,0},

@@ -1,3 +1,6 @@
+/**
+ * TiposSimples
+ */
 class TiposSimples{
     public static void main(String args[]){
         byte b = 0x55;

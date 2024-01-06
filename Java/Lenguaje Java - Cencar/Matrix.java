@@ -1,4 +1,7 @@
-public class Matrix {
+/**
+ * Matrix
+ */
+class Matrix {
     public static void main(String[] args) {
         double m[][];
 

@@ -1,4 +1,8 @@
-class Comma {
+/**
+ * Comma
+ */
+
+ class Comma {
     public static void main(String[] args) {
         int a, b;
         for(a = 1, b = 8; a < b; a++, b--){

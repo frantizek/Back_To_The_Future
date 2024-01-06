@@ -1,4 +1,7 @@
-public class Ternary {
+/**
+ * Ternary
+ */
+class Ternary {
     public static void main(String[] args) {
         int a = 42;
         int b = 2;
@@ -21,5 +24,4 @@ public class Ternary {
         System.out.println("c / d = " + f);
 
     }
-    
 }

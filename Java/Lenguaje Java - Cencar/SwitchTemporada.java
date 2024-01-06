@@ -1,4 +1,7 @@
-class SwitchTemporada{
+/**
+ * SwitchTemporada
+ */
+ class SwitchTemporada{
     public static void main(String[] args) {
         int month = 4;
         String season;

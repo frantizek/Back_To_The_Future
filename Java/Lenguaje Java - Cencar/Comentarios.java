@@ -3,7 +3,7 @@
  * para la clase HolaMundo que hereda de la clase Object.
  * @see java.lang.Object
  */
-public class Comentarios {
+class Comentarios {
     /**
      * este metodo es el principal de la clase y toma un parametro
      * @param args[] almacena los argumentos de la linea de comandos 
