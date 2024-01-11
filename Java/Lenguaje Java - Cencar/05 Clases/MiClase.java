@@ -1,3 +1,10 @@
+/**
+ * MiClase
+ * 
+ * El operador punto (.)
+ * Se utiliza para acceder a las variables de intancia 
+ * y los metodos contenidos en un objeto.
+ */
 class Point{
     int x;
     int y;
