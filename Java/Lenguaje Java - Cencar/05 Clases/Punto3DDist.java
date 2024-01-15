@@ -1,3 +1,10 @@
+/**
+ * Punto3DDist
+ * Sobreescritura de un metodo
+ * Java permite sustituir los metodos proporcionados por la clase base, lo que llamamos
+ * sobreescritura de metodos. Definamos una clase que mide la distancia de un punto en 
+ * dos dimensiones, y a partir de esta difinamos una que maneje la tercera dimension.
+ */
 
 class Punto{
     int x, y;
