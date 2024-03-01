@@ -1,1 +1,1 @@
-# Welcome to *Back to the Future*
+# *Back to the Future*
